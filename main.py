@@ -13,7 +13,7 @@ def check_website(url):
 
 if __name__ == "__main__":
     website_urls = [
-        "https://scripter.geekybloxyt.repl.co/",
+        "https://discord.jerrywalter802.repl.co/",
         "https://plaintivespatialbusinesses.jerrywalter802.repl.co/"
     ]
     interval = 60  # Check every 1 minute
