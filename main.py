@@ -14,7 +14,7 @@ def check_website(url):
 if __name__ == "__main__":
     website_urls = [
         "https://discord.jerrywalter802.repl.co/",
-        "https://plaintivespatialbusinesses.jerrywalter802.repl.co/"
+        "https://nuker-bot-xd.jerrywalter802.repl.co/"
     ]
     interval = 60  # Check every 1 minute
     run_time = 1500  # 25 minutes in seconds
