@@ -15,7 +15,8 @@ if __name__ == "__main__":
     website_urls = [
         "https://discord.jerrywalter802.repl.co/",
         "https://scripter.geekybloxyt.repl.co/",
-        "https://personal-mod-bot.jerrywalter802.repl.co/"
+        "https://personal-mod-bot.jerrywalter802.repl.co/",
+		"https://247-hrs-acc.jerrywalter802.repl.co/"
     ]
     interval = 60  # Check every 1 minute
     run_time = 1500  # 25 minutes in seconds
