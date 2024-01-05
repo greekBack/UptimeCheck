@@ -13,10 +13,9 @@ def check_website(url):
 
 if __name__ == "__main__":
     website_urls = [
-        "https://discord.jerrywalter802.repl.co/",
-        "https://25303a28-3201-42a3-9157-52249a68a919-00-37s5ctn51v55t.spock.replit.dev/"
+        " https://600d7fd7-eaba-4bf8-8418-98ced153709d-00-2cxhm1enq74kl.riker.replit.dev/"
     ]
-    interval = 60  # Check every 1 minute
+    interval = 1  # Check every 1 minute
     run_time = 1500  # 25 minutes in seconds
 
     total_time = 0
