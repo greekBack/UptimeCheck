@@ -13,9 +13,10 @@ def check_website(url):
 
 if __name__ == "__main__":
     website_urls = [
-        "https://2qn8p2-8080.csb.app"
+        "https://2qn8p2-8080.csb.app",
+        "https://4ykqlq-8080.csb.app"
     ]
-    interval = 50  # Check every 1 minute
+    interval = 60  # Check every 1 minute
     run_time = 1500  # 25 minutes in seconds
 
     total_time = 0
